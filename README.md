@@ -24,13 +24,16 @@ I created a new	table for Calendar and another table (DAX Measures) that holds a
 ![](Data-Modelling.PNG)
 
 ## Data Visualization:
-![]()
+The report consist of one page
+![](Superstore-Sales-Dashboard.jpg)
+You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiYzYxNmU3MzgtZjE4OC00MTUyLTk5NzMtNDk5ZjYyZGQyMTEzIiwidCI6IjExODg4MzNmLTRiMTktNDYzYS04OThmLWM2ODMxNmRjOTQ1NiJ9&pageName=ReportSection)
+---
 The company generated a total revenue of **$2.30M** and a net profit of **$286,409** leading to a profit margin of **0.12** which is small for a superstore of that size.
 To dig deeper into the analysis to know why the profit margin is small,
 I created a measure that showed the gross profit generated over the four years which amount to **$442,528** while incurring a loss of **$156,119** during sales over this year. This loss amount to **35%** of the profits.  
 
 ### Revenue by Products
-![](Top-10-products.PNG)  |   ![](Bottom-10-products.PNG)  
+![](Top-10-products.PNG)     ![](Bottom-10-products.PNG)  
 
 Canon Image class Advanced copier from the Technology category has the highest revenue of **$61,599**
 
